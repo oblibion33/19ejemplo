@@ -19,6 +19,7 @@ and open the template in the editor.
         echo "Saludo $hello x $A y $a";
         echo "<br>";
         echo 'Saludo $hello x $A y $a';
+        echo "<br>";
         /*
 
          * las concatenaciones son con un "." para concadenar cada lado, debe ser uno por cada lado a concatenar         */
