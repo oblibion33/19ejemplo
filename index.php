@@ -11,7 +11,17 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        $A = 10;
+        $a= 10;
+        $hello= "Hola mundo";
+        $a++;
+        
+        echo "Saludo $hello x $A y $a";
+        echo "<br>";
+        /*
+
+         * las concatenaciones son con un "." para concadenar cada lado, debe ser uno por cada lado a concatenar         */
+        echo 'Saludo'. $hello. 'x' .$A. 'y'.$a;
         ?>
     </body>
 </html>
