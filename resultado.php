@@ -6,5 +6,5 @@
  * and open the template in the editor.
  */
 
-echo "Variable creada en programacion.php".$varexterna;
+echo "Variable creada en programacion.php  ".$varexterna;
 echo "<br>";
